@@ -3,7 +3,7 @@
 Library management system in PHP & MySQL
 ========================================
 
-Youtube Tutorial : https://www.youtube.com/watch?v=60R10_LlVq0
+Youtube Tutorial : https://youtu.be/FYFwVU4xuVU
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
